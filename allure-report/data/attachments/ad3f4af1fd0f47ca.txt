@@ -1,0 +1,26 @@
+[16:24:45] info: Launching browser: chromium | headless=false
+[16:24:49] info: Navigating to: https://staging.payroo.com.au/
+[16:24:58] info: Starting Admin Login flow
+[16:24:58] step: Filling email: support+test@payroo.com.au
+[16:24:58] step: Filling password
+[16:25:04] success: Admin login completed successfully!
+Generated Data: NewTest 3987 501 Argentum alter titulus.
+[16:25:05] info: Navigating to Payroll Settings page...
+[16:25:10] success: Successfully navigated to Payroll Settings page.
+[16:25:10] info: Opening Add Expense form
+[16:25:10] step: Clicking "Expenses" button
+[16:25:11] step: Clicking "Add New" button
+[16:25:11] success: Add Expense form opened successfully!
+[16:25:11] info: Filling Expense Form
+[16:25:11] step: Entering Expense Name: NewTest 3987
+[16:25:11] step: Opening Category dropdown
+[16:25:12] step: Selecting Category: Tools & Equipment
+[16:25:12] step: Entering Amount: 501
+[16:25:14] step: Entering Description: Argentum alter titulus.
+[16:25:14] step: Toggling "Show In Payslip"
+[16:25:15] success: Expense form filled successfully!
+[16:25:15] info: Saving Expense Item
+[16:25:15] step: Clicking CREATE button
+[16:25:18] success: Expense item created successfully!
+[16:25:18] info: Closing browser session...
+[16:25:20] success: Browser session closed successfully.

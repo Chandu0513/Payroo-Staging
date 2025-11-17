@@ -1,0 +1,28 @@
+[01:14:09] info: Initializing browser: chromium
+[01:14:10] info: Navigating to base URL: https://staging.payroo.com.au/
+⚠ auth.json expired → performing login…
+[01:14:17] info: Starting Admin Login flow
+[01:14:17] step: Filling email: support+test@payroo.com.au
+[01:14:17] step: Filling password
+[01:14:19] success: Admin login completed successfully!
+✅ Login successful, continuing test...
+Generated Data: NewTest 348 767 Peccatus ago paulatim quibusdam dedecor ambitus.
+[01:14:19] info: Navigating to Payroll Settings page...
+[01:14:23] success: Successfully navigated to Payroll Settings page.
+[01:14:23] info: Opening Add Expense form
+[01:14:23] step: Clicking "Expenses" button
+[01:14:23] step: Clicking "Add New" button
+[01:14:23] success: Add Expense form opened successfully!
+[01:14:23] info: Filling Expense Form
+[01:14:23] step: Entering Expense Name: NewTest 348
+[01:14:24] step: Opening Category dropdown
+[01:14:25] step: Selecting Category: Tools & Equipment
+[01:14:25] step: Entering Amount: 767
+[01:14:25] step: Entering Description: Peccatus ago paulatim quibusdam dedecor ambitus.
+[01:14:25] step: Toggling "Show In Payslip"
+[01:14:26] success: Expense form filled successfully!
+[01:14:26] info: Saving Expense Item
+[01:14:26] step: Clicking CREATE button
+[01:14:26] success: Expense item created successfully!
+[01:14:26] info: Tearing down browser session...
+[01:14:28] success: Browser session closed successfully.

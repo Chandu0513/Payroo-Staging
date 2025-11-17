@@ -1,0 +1,23 @@
+[17:15:50] info: Navigating to: https://staging.payroo.com.au/
+[17:15:57] info: Starting Admin Login flow
+[17:15:57] step: Filling email: support+test@payroo.com.au
+[17:15:58] step: Filling password
+[17:16:04] success: Admin login completed successfully!
+Generated Data: NewTest 2469 433 Tot minus tripudio vinco iure defleo colligo alius convoco temeritas.
+[17:16:08] info: Navigating to Payroll Settings page...
+[17:16:14] success: Successfully navigated to Payroll Settings page.
+[17:16:14] info: Opening Add Expense form
+[17:16:14] step: Clicking "Expenses" button
+[17:16:15] step: Clicking "Add New" button
+[17:16:15] success: Add Expense form opened successfully!
+[17:16:15] info: Filling Expense Form
+[17:16:15] step: Entering Expense Name: NewTest 2469
+[17:16:15] step: Opening Category dropdown
+[17:16:15] step: Selecting Category: Tools & Equipment
+[17:16:16] step: Entering Amount: 433
+[17:16:16] step: Entering Description: Tot minus tripudio vinco iure defleo colligo alius convoco temeritas.
+[17:16:16] step: Toggling "Show In Payslip"
+[17:16:16] success: Expense form filled successfully!
+[17:16:16] info: Saving Expense Item
+[17:16:16] step: Clicking CREATE button
+[17:16:17] success: Expense item created successfully!

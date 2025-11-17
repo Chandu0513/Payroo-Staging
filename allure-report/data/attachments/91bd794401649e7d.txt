@@ -1,0 +1,23 @@
+[17:12:15] info: Navigating to: https://staging.payroo.com.au/
+[17:12:24] info: Starting Admin Login flow
+[17:12:24] step: Filling email: support+test@payroo.com.au
+[17:12:24] step: Filling password
+[17:12:29] success: Admin login completed successfully!
+Generated Data: NewTest 7074 344 Adflicto tertius tergum conculco vespillo comptus.
+[17:12:30] info: Navigating to Payroll Settings page...
+[17:12:36] success: Successfully navigated to Payroll Settings page.
+[17:12:36] info: Opening Add Expense form
+[17:12:36] step: Clicking "Expenses" button
+[17:12:37] step: Clicking "Add New" button
+[17:12:39] success: Add Expense form opened successfully!
+[17:12:39] info: Filling Expense Form
+[17:12:39] step: Entering Expense Name: NewTest 7074
+[17:12:39] step: Opening Category dropdown
+[17:12:39] step: Selecting Category: Tools & Equipment
+[17:12:40] step: Entering Amount: 344
+[17:12:40] step: Entering Description: Adflicto tertius tergum conculco vespillo comptus.
+[17:12:41] step: Toggling "Show In Payslip"
+[17:12:41] success: Expense form filled successfully!
+[17:12:41] info: Saving Expense Item
+[17:12:41] step: Clicking CREATE button
+[17:12:41] success: Expense item created successfully!

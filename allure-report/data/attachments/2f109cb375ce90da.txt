@@ -1,0 +1,4 @@
+[01:39:07] info: Launching browser: chromium | headless=true
+[01:39:09] info: Navigating to: https://staging.payroo.com.au/
+Using Expense: 
+[01:39:19] info: Navigating to expense claim  page...

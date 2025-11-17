@@ -1,0 +1,87 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - button "S Support Test " [ref=e7] [cursor=pointer]:
+          - heading "S" [level=1] [ref=e9]
+          - paragraph [ref=e10]: Support Test
+          - generic [ref=e11]: 
+        - button "" [ref=e12] [cursor=pointer]:
+          - generic [ref=e13]: 
+      - generic [ref=e14]:
+        - generic [ref=e15]: 
+        - textbox "Search..." [ref=e16]
+      - generic [ref=e17]:
+        - link " Pay Runs " [ref=e18] [cursor=pointer]:
+          - /url: /payruns
+          - generic [ref=e19]:
+            - generic [ref=e21]: 
+            - paragraph [ref=e22]: Pay Runs
+            - generic [ref=e24]: 
+        - link " Employees " [ref=e25] [cursor=pointer]:
+          - /url: /employees
+          - generic [ref=e26]:
+            - generic [ref=e28]: 
+            - paragraph [ref=e29]: Employees
+            - generic [ref=e31]: 
+        - link " Expense Claims " [ref=e32] [cursor=pointer]:
+          - /url: /expense-claims
+          - generic [ref=e33]:
+            - generic [ref=e35]: 
+            - paragraph [ref=e36]: Expense Claims
+            - generic [ref=e38]: 
+        - button " Reports " [ref=e40] [cursor=pointer]:
+          - generic [ref=e42]: 
+          - paragraph [ref=e43]: Reports
+          - generic [ref=e45]: 
+        - link " Features " [ref=e46] [cursor=pointer]:
+          - /url: /features
+          - generic [ref=e47]:
+            - generic [ref=e49]: 
+            - paragraph [ref=e50]: Features
+            - generic [ref=e52]: 
+        - button " Settings " [ref=e54] [cursor=pointer]:
+          - generic [ref=e56]: 
+          - paragraph [ref=e57]: Settings
+          - generic [ref=e59]: 
+      - generic [ref=e60]:
+        - button "" [ref=e61] [cursor=pointer]:
+          - generic [ref=e62]: 
+        - button "" [ref=e63] [cursor=pointer]:
+          - generic [ref=e64]: 
+        - button "" [ref=e65] [cursor=pointer]:
+          - generic [ref=e66]: 
+        - generic "Notifications" [ref=e69] [cursor=pointer]:
+          - generic [ref=e70]: 
+        - button "" [ref=e71] [cursor=pointer]:
+          - generic [ref=e72]: 
+        - generic [ref=e73]:
+          - img "Logo"
+    - main [ref=e74]:
+      - generic [ref=e76]:
+        - button "" [disabled] [ref=e77]:
+          - generic [ref=e78]: 
+        - heading "All Pay Runs" [level=1] [ref=e79]
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - generic [ref=e83]: Schedule
+            - listbox [ref=e84] [cursor=pointer]:
+              - alert [ref=e85]: Show all
+          - generic [ref=e87]:
+            - generic [ref=e88]: Status
+            - listbox [ref=e89] [cursor=pointer]:
+              - alert [ref=e90]: Show all
+          - generic [ref=e92]:
+            - generic [ref=e93]: FY
+            - listbox [ref=e94] [cursor=pointer]:
+              - alert [ref=e95]: 2025-2026
+        - generic [ref=e99]:
+          - img "Loading" [ref=e100]
+          - paragraph [ref=e101]: Loading...
+  - iframe [ref=e102]:
+    
+```

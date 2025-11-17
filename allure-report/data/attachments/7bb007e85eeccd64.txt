@@ -1,0 +1,8 @@
+[16:26:33] info: Launching browser: chromium | headless=false
+[16:26:34] info: Navigating to: https://staging.payroo.com.au/
+[16:26:43] info: Starting Admin Login flow
+[16:26:43] step: Filling email: support+test@payroo.com.au
+[16:26:43] step: Filling password
+[16:26:45] success: Admin login completed successfully!
+[16:26:47] info: Closing browser session...
+[16:26:51] success: Browser session closed successfully.

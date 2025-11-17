@@ -1,0 +1,23 @@
+[22:39:36] info: Navigating to: https://staging.payroo.com.au/
+[22:39:46] info: Starting Admin Login flow
+[22:39:46] step: Filling email: support+test@payroo.com.au
+[22:39:46] step: Filling password
+[22:39:48] success: Admin login completed successfully!
+Generated Data: NewTest 6717 206 Apostolus alioqui corrigo auxilium.
+[22:39:48] info: Navigating to Payroll Settings page...
+[22:39:50] success: Successfully navigated to Payroll Settings page.
+[22:39:50] info: Opening Add Expense form
+[22:39:50] step: Clicking "Expenses" button
+[22:39:52] step: Clicking "Add New" button
+[22:39:52] success: Add Expense form opened successfully!
+[22:39:52] info: Filling Expense Form
+[22:39:52] step: Entering Expense Name: NewTest 6717
+[22:39:53] step: Opening Category dropdown
+[22:39:53] step: Selecting Category: Tools & Equipment
+[22:39:53] step: Entering Amount: 206
+[22:39:53] step: Entering Description: Apostolus alioqui corrigo auxilium.
+[22:39:54] step: Toggling "Show In Payslip"
+[22:39:54] success: Expense form filled successfully!
+[22:39:54] info: Saving Expense Item
+[22:39:54] step: Clicking CREATE button
+[22:39:54] success: Expense item created successfully!

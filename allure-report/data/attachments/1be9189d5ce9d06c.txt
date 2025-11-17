@@ -1,0 +1,23 @@
+[17:00:35] info: Navigating to: https://staging.payroo.com.au/
+[17:00:53] info: Starting Admin Login flow
+[17:00:53] step: Filling email: support+test@payroo.com.au
+[17:00:55] step: Filling password
+[17:01:07] success: Admin login completed successfully!
+Generated Data: NewTest 244 480 Deprecator alo vulnus absconditus defaeco voco vereor.
+[17:01:08] info: Navigating to Payroll Settings page...
+[17:01:16] success: Successfully navigated to Payroll Settings page.
+[17:01:16] info: Opening Add Expense form
+[17:01:16] step: Clicking "Expenses" button
+[17:01:17] step: Clicking "Add New" button
+[17:01:18] success: Add Expense form opened successfully!
+[17:01:18] info: Filling Expense Form
+[17:01:18] step: Entering Expense Name: NewTest 244
+[17:01:18] step: Opening Category dropdown
+[17:01:19] step: Selecting Category: Tools & Equipment
+[17:01:20] step: Entering Amount: 480
+[17:01:20] step: Entering Description: Deprecator alo vulnus absconditus defaeco voco vereor.
+[17:01:20] step: Toggling "Show In Payslip"
+[17:01:21] success: Expense form filled successfully!
+[17:01:21] info: Saving Expense Item
+[17:01:21] step: Clicking CREATE button
+[17:01:24] success: Expense item created successfully!

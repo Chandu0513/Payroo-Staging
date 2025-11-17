@@ -1,0 +1,9 @@
+[17:22:17] info: Navigating to: https://staging.payroo.com.au/
+[17:22:24] info: Starting Admin Login flow
+[17:22:24] step: Filling email: support+test@payroo.com.au
+[17:22:26] step: Filling password
+[17:22:30] success: Admin login completed successfully!
+[17:22:31] info: Navigating to expense claim page...
+[17:22:38] success: Navigated to expense claim page via menu link.
+[17:22:38] info: Opening Expense Claim Form...
+[17:22:38] info: Filling expense claim details using index-based dropdowns...

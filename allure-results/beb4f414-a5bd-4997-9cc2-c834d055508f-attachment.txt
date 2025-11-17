@@ -1,0 +1,17 @@
+[03:04:02] info: Launching browser: chromium | headless=false
+[03:04:04] info: Navigating to: https://staging.payroo.com.au/
+[03:04:09] info: Starting Admin Login flow
+[03:04:09] step: Filling email: support+test@payroo.com.au
+[03:04:09] step: Filling password
+[03:04:11] success: Admin login completed successfully!
+[03:04:12] info: Navigating to expense claim page...
+[03:04:15] success: Successfully navigated to expense claim page (via goto).
+[03:04:15] info: Opening Expense Claim Form...
+[03:04:16] info: Filling expense claim details...
+[03:04:59] info: Approving Expense...
+[03:05:32] error: approveExpense failed: TimeoutError: locator.waitFor: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator('div').filter({ hasText: 'StatusPendingPendingApprovedPaidRejectedCancelled' }).nth(3) to be visible
+
+[03:05:32] info: Closing browser session...
+[03:05:34] success: Browser session closed successfully.

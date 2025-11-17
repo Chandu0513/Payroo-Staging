@@ -1,0 +1,23 @@
+[17:01:35] info: Navigating to: https://staging.payroo.com.au/
+[17:01:43] info: Starting Admin Login flow
+[17:01:43] step: Filling email: support+test@payroo.com.au
+[17:01:44] step: Filling password
+[17:01:47] success: Admin login completed successfully!
+Generated Data: NewTest 4075 605 Consuasor curatio ex temeritas vespillo.
+[17:01:49] info: Navigating to Payroll Settings page...
+[17:01:53] success: Successfully navigated to Payroll Settings page.
+[17:01:53] info: Opening Add Expense form
+[17:01:53] step: Clicking "Expenses" button
+[17:01:56] step: Clicking "Add New" button
+[17:01:57] success: Add Expense form opened successfully!
+[17:01:57] info: Filling Expense Form
+[17:01:57] step: Entering Expense Name: NewTest 4075
+[17:01:58] step: Opening Category dropdown
+[17:01:59] step: Selecting Category: Tools & Equipment
+[17:02:00] step: Entering Amount: 605
+[17:02:00] step: Entering Description: Consuasor curatio ex temeritas vespillo.
+[17:02:01] step: Toggling "Show In Payslip"
+[17:02:01] success: Expense form filled successfully!
+[17:02:01] info: Saving Expense Item
+[17:02:01] step: Clicking CREATE button
+[17:02:02] success: Expense item created successfully!

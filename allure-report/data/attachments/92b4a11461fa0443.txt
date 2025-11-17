@@ -1,0 +1,17 @@
+[16:34:16] info: Launching browser: chromium | headless=false
+[16:34:18] info: Navigating to: https://staging.payroo.com.au/
+[16:34:24] info: Starting Admin Login flow
+[16:34:24] step: Filling email: support+test@payroo.com.au
+[16:34:24] step: Filling password
+[16:34:27] success: Admin login completed successfully!
+Generated Data: NewTest 7783 913 Aliquid ipsum placeat voluptates.
+[16:34:27] info: Navigating to Payroll Settings page...
+[16:34:30] success: Successfully navigated to Payroll Settings page.
+[16:34:30] info: Opening Add Expense form
+[16:34:30] step: Clicking "Expenses" button
+[16:34:32] step: Clicking "Add New" button
+[16:34:32] success: Add Expense form opened successfully!
+[16:34:32] info: Filling Expense Form
+[16:34:32] step: Entering Expense Name: NewTest 7783
+[16:35:16] info: Closing browser session...
+[16:35:17] success: Browser session closed successfully.

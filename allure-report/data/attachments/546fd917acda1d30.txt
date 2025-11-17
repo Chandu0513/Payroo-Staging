@@ -1,0 +1,13 @@
+[02:16:18] info: Launching browser: chromium | headless=false
+[02:16:19] info: Navigating to: https://staging.payroo.com.au/
+[02:16:23] info: Starting Admin Login flow
+[02:16:23] step: Filling email: support+test@payroo.com.au
+[02:16:23] step: Filling password
+[02:16:29] success: Admin login completed successfully!
+Using Expense: 
+[02:16:29] info: Navigating to expense claim page...
+[02:16:29] success: Successfully navigated to expense claim page.
+[02:16:29] info: Opening Expense Claim Form...
+[02:16:30] info: Filling form for Employee: Adam John, Expense: new
+[02:16:46] info: Closing browser session...
+[02:16:46] success: Browser session closed successfully.

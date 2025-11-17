@@ -1,0 +1,26 @@
+[16:26:33] info: Launching browser: chromium | headless=false
+[16:26:36] info: Navigating to: https://staging.payroo.com.au/
+[16:26:43] info: Starting Admin Login flow
+[16:26:43] step: Filling email: support+test@payroo.com.au
+[16:26:44] step: Filling password
+[16:26:49] success: Admin login completed successfully!
+Generated Data: NewTest 1207 760 Quas amplus coma deporto conturbo vorago cotidie vomica.
+[16:26:50] info: Navigating to Payroll Settings page...
+[16:26:56] success: Successfully navigated to Payroll Settings page.
+[16:26:56] info: Opening Add Expense form
+[16:26:56] step: Clicking "Expenses" button
+[16:26:57] step: Clicking "Add New" button
+[16:26:57] success: Add Expense form opened successfully!
+[16:26:57] info: Filling Expense Form
+[16:26:57] step: Entering Expense Name: NewTest 1207
+[16:26:57] step: Opening Category dropdown
+[16:26:58] step: Selecting Category: Tools & Equipment
+[16:26:58] step: Entering Amount: 760
+[16:26:59] step: Entering Description: Quas amplus coma deporto conturbo vorago cotidie vomica.
+[16:26:59] step: Toggling "Show In Payslip"
+[16:26:59] success: Expense form filled successfully!
+[16:26:59] info: Saving Expense Item
+[16:26:59] step: Clicking CREATE button
+[16:26:59] success: Expense item created successfully!
+[16:26:59] info: Closing browser session...
+[16:27:01] success: Browser session closed successfully.

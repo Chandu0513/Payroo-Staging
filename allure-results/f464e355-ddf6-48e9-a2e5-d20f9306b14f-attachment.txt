@@ -1,0 +1,26 @@
+[16:43:45] info: Launching browser: chromium | headless=false
+[16:43:48] info: Navigating to: https://staging.payroo.com.au/
+[16:43:57] info: Starting Admin Login flow
+[16:43:57] step: Filling email: support+test@payroo.com.au
+[16:43:57] step: Filling password
+[16:44:00] success: Admin login completed successfully!
+Generated Data: NewTest 2116 446 Comminor vapulus atque terror tandem adversus tamdiu.
+[16:44:01] info: Navigating to Payroll Settings page...
+[16:44:21] success: Successfully navigated to Payroll Settings page.
+[16:44:21] info: Opening Add Expense form
+[16:44:21] step: Clicking "Expenses" button
+[16:44:22] step: Clicking "Add New" button
+[16:44:22] success: Add Expense form opened successfully!
+[16:44:22] info: Filling Expense Form
+[16:44:22] step: Entering Expense Name: NewTest 2116
+[16:44:23] step: Opening Category dropdown
+[16:44:23] step: Selecting Category: Tools & Equipment
+[16:44:23] step: Entering Amount: 446
+[16:44:24] step: Entering Description: Comminor vapulus atque terror tandem adversus tamdiu.
+[16:44:24] step: Toggling "Show In Payslip"
+[16:44:24] success: Expense form filled successfully!
+[16:44:24] info: Saving Expense Item
+[16:44:24] step: Clicking CREATE button
+[16:44:24] success: Expense item created successfully!
+[16:44:24] info: Closing browser session...
+[16:44:25] success: Browser session closed successfully.

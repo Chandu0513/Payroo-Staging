@@ -1,0 +1,23 @@
+[17:02:32] info: Navigating to: https://staging.payroo.com.au/
+[17:02:43] info: Starting Admin Login flow
+[17:02:43] step: Filling email: support+test@payroo.com.au
+[17:02:44] step: Filling password
+[17:02:47] success: Admin login completed successfully!
+Generated Data: NewTest 7750 342 Coniecto adaugeo vae.
+[17:02:48] info: Navigating to Payroll Settings page...
+[17:02:52] success: Successfully navigated to Payroll Settings page.
+[17:02:52] info: Opening Add Expense form
+[17:02:52] step: Clicking "Expenses" button
+[17:02:53] step: Clicking "Add New" button
+[17:02:54] success: Add Expense form opened successfully!
+[17:02:54] info: Filling Expense Form
+[17:02:54] step: Entering Expense Name: NewTest 7750
+[17:02:54] step: Opening Category dropdown
+[17:02:54] step: Selecting Category: Tools & Equipment
+[17:02:55] step: Entering Amount: 342
+[17:02:55] step: Entering Description: Coniecto adaugeo vae.
+[17:02:55] step: Toggling "Show In Payslip"
+[17:02:55] success: Expense form filled successfully!
+[17:02:55] info: Saving Expense Item
+[17:02:55] step: Clicking CREATE button
+[17:02:56] success: Expense item created successfully!

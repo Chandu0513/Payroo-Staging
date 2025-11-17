@@ -1,0 +1,26 @@
+[16:39:56] info: Launching browser: chromium | headless=false
+[16:39:58] info: Navigating to: https://staging.payroo.com.au/
+[16:40:03] info: Starting Admin Login flow
+[16:40:03] step: Filling email: support+test@payroo.com.au
+[16:40:03] step: Filling password
+[16:40:08] success: Admin login completed successfully!
+Generated Data: NewTest 2519 880 Tabella vaco minima adstringo universe vilicus.
+[16:40:08] info: Navigating to Payroll Settings page...
+[16:40:09] success: Successfully navigated to Payroll Settings page.
+[16:40:09] info: Opening Add Expense form
+[16:40:09] step: Clicking "Expenses" button
+[16:40:11] step: Clicking "Add New" button
+[16:40:11] success: Add Expense form opened successfully!
+[16:40:11] info: Filling Expense Form
+[16:40:11] step: Entering Expense Name: NewTest 2519
+[16:40:11] step: Opening Category dropdown
+[16:40:12] step: Selecting Category: Tools & Equipment
+[16:40:12] step: Entering Amount: 880
+[16:40:12] step: Entering Description: Tabella vaco minima adstringo universe vilicus.
+[16:40:12] step: Toggling "Show In Payslip"
+[16:40:12] success: Expense form filled successfully!
+[16:40:12] info: Saving Expense Item
+[16:40:12] step: Clicking CREATE button
+[16:40:13] success: Expense item created successfully!
+[16:40:13] info: Closing browser session...
+[16:40:14] success: Browser session closed successfully.

@@ -1,0 +1,14 @@
+[17:08:28] info: Navigating to: https://staging.payroo.com.au/
+[17:08:38] info: Starting Admin Login flow
+[17:08:38] step: Filling email: support+test@payroo.com.au
+[17:08:39] step: Filling password
+[17:08:48] success: Admin login completed successfully!
+[17:08:50] info: Navigating to expense claim page...
+[17:09:02] info: Menu link navigation failed, trying direct URL: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+  - waiting for getByRole('link', { name: ' Expense Claims ' }) to be visible
+
+[17:09:24] error: Failed to navigate to expense claim page: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+  - waiting for getByRole('button', { name: 'Create' }) to be visible
+

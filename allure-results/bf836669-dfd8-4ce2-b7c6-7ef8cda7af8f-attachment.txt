@@ -1,0 +1,5 @@
+[17:04:40] info: Navigating to: https://staging.payroo.com.au/
+[17:04:46] info: Starting Admin Login flow
+[17:04:46] step: Filling email: support+test@payroo.com.au
+[17:04:46] step: Filling password
+[17:04:48] success: Admin login completed successfully!

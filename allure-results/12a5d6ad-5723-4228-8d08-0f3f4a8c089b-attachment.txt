@@ -1,0 +1,26 @@
+[16:39:14] info: Launching browser: chromium | headless=false
+[16:39:15] info: Navigating to: https://staging.payroo.com.au/
+[16:39:20] info: Starting Admin Login flow
+[16:39:20] step: Filling email: support+test@payroo.com.au
+[16:39:20] step: Filling password
+[16:39:23] success: Admin login completed successfully!
+Generated Data: NewTest 1763 283 Tutamen cum tantum tui bellicus.
+[16:39:24] info: Navigating to Payroll Settings page...
+[16:39:26] success: Successfully navigated to Payroll Settings page.
+[16:39:26] info: Opening Add Expense form
+[16:39:26] step: Clicking "Expenses" button
+[16:39:27] step: Clicking "Add New" button
+[16:39:28] success: Add Expense form opened successfully!
+[16:39:28] info: Filling Expense Form
+[16:39:28] step: Entering Expense Name: NewTest 1763
+[16:39:28] step: Opening Category dropdown
+[16:39:29] step: Selecting Category: Tools & Equipment
+[16:39:29] step: Entering Amount: 283
+[16:39:29] step: Entering Description: Tutamen cum tantum tui bellicus.
+[16:39:30] step: Toggling "Show In Payslip"
+[16:39:30] success: Expense form filled successfully!
+[16:39:30] info: Saving Expense Item
+[16:39:30] step: Clicking CREATE button
+[16:39:30] success: Expense item created successfully!
+[16:39:30] info: Closing browser session...
+[16:39:32] success: Browser session closed successfully.

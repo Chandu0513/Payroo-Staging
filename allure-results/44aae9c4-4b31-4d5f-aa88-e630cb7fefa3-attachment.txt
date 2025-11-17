@@ -1,0 +1,20 @@
+[15:16:59] info: Launching browser: chromium | headless=false
+[15:16:59] info: Navigating to: https://staging.payroo.com.au/
+[15:17:03] info: Starting Admin Login flow
+[15:17:03] step: Filling email: support+test@payroo.com.au
+[15:17:04] step: Filling password
+[15:17:24] success: Admin login completed successfully!
+[15:17:24] info: Navigating to expense claim page...
+[15:17:26] success: Navigated to expense claim page via menu link.
+[15:17:26] info: Opening Expense Claim Form...
+[15:17:26] info: Filling expense claim details using index-based dropdowns...
+[15:17:58] info: Approving Expense...
+[15:17:58] error: approveExpense failed: Error: locator.waitFor: Error: strict mode violation: locator('.base-table-row > .ui > label') resolved to 2 elements:
+    1) <label></label> aka locator('.base-table-row > .ui > label').first()
+    2) <label></label> aka locator('div:nth-child(2) > .ui > label')
+
+Call log:
+  - waiting for locator('.base-table-row > .ui > label') to be visible
+
+[15:17:58] info: Closing browser session...
+[15:17:59] success: Browser session closed successfully.

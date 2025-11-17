@@ -1,0 +1,26 @@
+[16:44:28] info: Launching browser: chromium | headless=false
+[16:44:29] info: Navigating to: https://staging.payroo.com.au/
+[16:44:35] info: Starting Admin Login flow
+[16:44:35] step: Filling email: support+test@payroo.com.au
+[16:44:35] step: Filling password
+[16:44:37] success: Admin login completed successfully!
+Generated Data: NewTest 6971 813 Claustrum vomer natus tutamen desparatus autus video quia.
+[16:44:37] info: Navigating to Payroll Settings page...
+[16:44:40] success: Successfully navigated to Payroll Settings page.
+[16:44:40] info: Opening Add Expense form
+[16:44:40] step: Clicking "Expenses" button
+[16:44:41] step: Clicking "Add New" button
+[16:44:41] success: Add Expense form opened successfully!
+[16:44:41] info: Filling Expense Form
+[16:44:41] step: Entering Expense Name: NewTest 6971
+[16:44:42] step: Opening Category dropdown
+[16:44:42] step: Selecting Category: Tools & Equipment
+[16:44:43] step: Entering Amount: 813
+[16:44:43] step: Entering Description: Claustrum vomer natus tutamen desparatus autus video quia.
+[16:44:43] step: Toggling "Show In Payslip"
+[16:44:44] success: Expense form filled successfully!
+[16:44:44] info: Saving Expense Item
+[16:44:44] step: Clicking CREATE button
+[16:44:44] success: Expense item created successfully!
+[16:44:44] info: Closing browser session...
+[16:44:45] success: Browser session closed successfully.

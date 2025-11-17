@@ -1,0 +1,26 @@
+[16:30:19] info: Launching browser: chromium | headless=false
+[16:30:22] info: Navigating to: https://staging.payroo.com.au/
+[16:30:30] info: Starting Admin Login flow
+[16:30:30] step: Filling email: support+test@payroo.com.au
+[16:30:31] step: Filling password
+[16:30:33] success: Admin login completed successfully!
+Generated Data: NewTest 2203 61 Trepide vomica carbo somniculosus vociferor paens adversus.
+[16:30:33] info: Navigating to Payroll Settings page...
+[16:30:37] success: Successfully navigated to Payroll Settings page.
+[16:30:37] info: Opening Add Expense form
+[16:30:37] step: Clicking "Expenses" button
+[16:30:38] step: Clicking "Add New" button
+[16:30:39] success: Add Expense form opened successfully!
+[16:30:39] info: Filling Expense Form
+[16:30:39] step: Entering Expense Name: NewTest 2203
+[16:30:40] step: Opening Category dropdown
+[16:30:40] step: Selecting Category: Tools & Equipment
+[16:30:41] step: Entering Amount: 61
+[16:30:41] step: Entering Description: Trepide vomica carbo somniculosus vociferor paens adversus.
+[16:30:42] step: Toggling "Show In Payslip"
+[16:30:42] success: Expense form filled successfully!
+[16:30:42] info: Saving Expense Item
+[16:30:42] step: Clicking CREATE button
+[16:30:43] success: Expense item created successfully!
+[16:30:43] info: Closing browser session...
+[16:30:45] success: Browser session closed successfully.

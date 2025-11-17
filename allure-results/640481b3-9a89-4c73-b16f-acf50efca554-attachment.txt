@@ -1,0 +1,23 @@
+[18:39:10] info: Navigating to: https://staging.payroo.com.au/
+[18:39:21] info: Starting Admin Login flow
+[18:39:21] step: Filling email: support+test@payroo.com.au
+[18:39:21] step: Filling password
+[18:39:28] success: Admin login completed successfully!
+Generated Data: NewTest 4214 220 Supellex architecto clibanus.
+[18:39:29] info: Navigating to Payroll Settings page...
+[18:39:38] success: Successfully navigated to Payroll Settings page.
+[18:39:38] info: Opening Add Expense form
+[18:39:38] step: Clicking "Expenses" button
+[18:39:38] step: Clicking "Add New" button
+[18:39:39] success: Add Expense form opened successfully!
+[18:39:39] info: Filling Expense Form
+[18:39:39] step: Entering Expense Name: NewTest 4214
+[18:39:40] step: Opening Category dropdown
+[18:39:40] step: Selecting Category: Tools & Equipment
+[18:39:41] step: Entering Amount: 220
+[18:39:41] step: Entering Description: Supellex architecto clibanus.
+[18:39:41] step: Toggling "Show In Payslip"
+[18:39:41] success: Expense form filled successfully!
+[18:39:41] info: Saving Expense Item
+[18:39:41] step: Clicking CREATE button
+[18:39:42] success: Expense item created successfully!

@@ -1,0 +1,23 @@
+[22:35:12] info: Navigating to: https://staging.payroo.com.au/
+[22:35:17] info: Starting Admin Login flow
+[22:35:17] step: Filling email: support+test@payroo.com.au
+[22:35:17] step: Filling password
+[22:35:18] success: Admin login completed successfully!
+Generated Data: NewTest 2320 313 Deporto vallum delicate amitto sollers adhuc attonbitus.
+[22:35:19] info: Navigating to Payroll Settings page...
+[22:35:21] success: Successfully navigated to Payroll Settings page.
+[22:35:21] info: Opening Add Expense form
+[22:35:21] step: Clicking "Expenses" button
+[22:35:23] step: Clicking "Add New" button
+[22:35:24] success: Add Expense form opened successfully!
+[22:35:24] info: Filling Expense Form
+[22:35:24] step: Entering Expense Name: NewTest 2320
+[22:35:24] step: Opening Category dropdown
+[22:35:25] step: Selecting Category: Tools & Equipment
+[22:35:25] step: Entering Amount: 313
+[22:35:26] step: Entering Description: Deporto vallum delicate amitto sollers adhuc attonbitus.
+[22:35:26] step: Toggling "Show In Payslip"
+[22:35:26] success: Expense form filled successfully!
+[22:35:26] info: Saving Expense Item
+[22:35:26] step: Clicking CREATE button
+[22:35:27] success: Expense item created successfully!

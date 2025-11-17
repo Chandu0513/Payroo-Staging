@@ -1,0 +1,26 @@
+[01:56:11] info: Launching browser: chromium | headless=false
+[01:56:12] info: Navigating to: https://staging.payroo.com.au/
+[01:56:15] info: Starting Admin Login flow
+[01:56:15] step: Filling email: support+test@payroo.com.au
+[01:56:15] step: Filling password
+[01:56:21] success: Admin login completed successfully!
+Generated Data: NewTest 2842 453 Consuasor aut quod audio coadunatio aiunt adulatio.
+[01:56:21] info: Navigating to Payroll Settings page...
+[01:56:22] success: Successfully navigated to Payroll Settings page.
+[01:56:22] info: Opening Add Expense form
+[01:56:22] step: Clicking "Expenses" button
+[01:56:23] step: Clicking "Add New" button
+[01:56:24] success: Add Expense form opened successfully!
+[01:56:24] info: Filling Expense Form
+[01:56:24] step: Entering Expense Name: NewTest 2842
+[01:56:24] step: Opening Category dropdown
+[01:56:24] step: Selecting Category: Tools & Equipment
+[01:56:24] step: Entering Amount: 453
+[01:56:25] step: Entering Description: Consuasor aut quod audio coadunatio aiunt adulatio.
+[01:56:25] step: Toggling "Show In Payslip"
+[01:56:25] success: Expense form filled successfully!
+[01:56:25] info: Saving Expense Item
+[01:56:25] step: Clicking CREATE button
+[01:56:25] success: Expense item created successfully!
+[01:56:25] info: Closing browser session...
+[01:56:27] success: Browser session closed successfully.

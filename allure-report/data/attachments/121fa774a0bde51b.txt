@@ -1,0 +1,23 @@
+[17:04:41] info: Navigating to: https://staging.payroo.com.au/
+[17:04:48] info: Starting Admin Login flow
+[17:04:48] step: Filling email: support+test@payroo.com.au
+[17:04:48] step: Filling password
+[17:04:52] success: Admin login completed successfully!
+Generated Data: NewTest 8624 392 Cedo cum comes caecus casus coepi condico.
+[17:04:53] info: Navigating to Payroll Settings page...
+[17:04:54] success: Successfully navigated to Payroll Settings page.
+[17:04:54] info: Opening Add Expense form
+[17:04:54] step: Clicking "Expenses" button
+[17:04:58] step: Clicking "Add New" button
+[17:04:58] success: Add Expense form opened successfully!
+[17:04:58] info: Filling Expense Form
+[17:04:58] step: Entering Expense Name: NewTest 8624
+[17:04:59] step: Opening Category dropdown
+[17:04:59] step: Selecting Category: Tools & Equipment
+[17:05:00] step: Entering Amount: 392
+[17:05:00] step: Entering Description: Cedo cum comes caecus casus coepi condico.
+[17:05:01] step: Toggling "Show In Payslip"
+[17:05:02] success: Expense form filled successfully!
+[17:05:02] info: Saving Expense Item
+[17:05:02] step: Clicking CREATE button
+[17:05:03] success: Expense item created successfully!

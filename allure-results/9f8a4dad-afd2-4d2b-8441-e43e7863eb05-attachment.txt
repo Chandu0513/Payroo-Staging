@@ -1,0 +1,8 @@
+[17:29:16] info: Navigating to: https://staging.payroo.com.au/
+[17:29:23] info: Starting Admin Login flow
+[17:29:23] step: Filling email: support+test@payroo.com.au
+[17:29:23] step: Filling password
+[17:29:25] success: Admin login completed successfully!
+[17:29:25] info: Navigating to expense claim page...
+[17:29:25] info: Menu link navigation failed, trying direct URL: Error: locator.waitFor: Target page, context or browser has been closed
+[17:29:25] error: Failed to navigate to expense claim page: Error: page.goto: Target page, context or browser has been closed

@@ -1,0 +1,26 @@
+[16:38:35] info: Launching browser: chromium | headless=false
+[16:38:39] info: Navigating to: https://staging.payroo.com.au/
+[16:38:45] info: Starting Admin Login flow
+[16:38:45] step: Filling email: support+test@payroo.com.au
+[16:38:46] step: Filling password
+[16:38:49] success: Admin login completed successfully!
+Generated Data: NewTest 9399 68 Cubicularis somniculosus abduco conventus venustas.
+[16:38:50] info: Navigating to Payroll Settings page...
+[16:38:52] success: Successfully navigated to Payroll Settings page.
+[16:38:52] info: Opening Add Expense form
+[16:38:52] step: Clicking "Expenses" button
+[16:38:55] step: Clicking "Add New" button
+[16:38:56] success: Add Expense form opened successfully!
+[16:38:56] info: Filling Expense Form
+[16:38:56] step: Entering Expense Name: NewTest 9399
+[16:38:56] step: Opening Category dropdown
+[16:38:56] step: Selecting Category: Tools & Equipment
+[16:38:56] step: Entering Amount: 68
+[16:38:57] step: Entering Description: Cubicularis somniculosus abduco conventus venustas.
+[16:38:57] step: Toggling "Show In Payslip"
+[16:38:57] success: Expense form filled successfully!
+[16:38:57] info: Saving Expense Item
+[16:38:57] step: Clicking CREATE button
+[16:38:58] success: Expense item created successfully!
+[16:38:58] info: Closing browser session...
+[16:39:05] success: Browser session closed successfully.

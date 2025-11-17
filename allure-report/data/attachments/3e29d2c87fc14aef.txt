@@ -1,0 +1,23 @@
+[17:10:16] info: Navigating to: https://staging.payroo.com.au/
+[17:10:22] info: Starting Admin Login flow
+[17:10:22] step: Filling email: support+test@payroo.com.au
+[17:10:22] step: Filling password
+[17:10:33] success: Admin login completed successfully!
+Generated Data: NewTest 8101 261 Tabula degenero traho apparatus viriliter tendo cavus curtus.
+[17:10:34] info: Navigating to Payroll Settings page...
+[17:10:35] success: Successfully navigated to Payroll Settings page.
+[17:10:35] info: Opening Add Expense form
+[17:10:35] step: Clicking "Expenses" button
+[17:10:37] step: Clicking "Add New" button
+[17:10:37] success: Add Expense form opened successfully!
+[17:10:37] info: Filling Expense Form
+[17:10:37] step: Entering Expense Name: NewTest 8101
+[17:10:37] step: Opening Category dropdown
+[17:10:38] step: Selecting Category: Tools & Equipment
+[17:10:38] step: Entering Amount: 261
+[17:10:38] step: Entering Description: Tabula degenero traho apparatus viriliter tendo cavus curtus.
+[17:10:38] step: Toggling "Show In Payslip"
+[17:10:39] success: Expense form filled successfully!
+[17:10:39] info: Saving Expense Item
+[17:10:39] step: Clicking CREATE button
+[17:10:39] success: Expense item created successfully!

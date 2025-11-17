@@ -1,0 +1,4 @@
+[03:34:49] info: Launching browser: chromium | headless=false
+[03:34:52] info: Navigating to: https://staging.payroo.com.au/
+[03:35:11] info: Closing browser session...
+[03:35:12] success: Browser session closed successfully.

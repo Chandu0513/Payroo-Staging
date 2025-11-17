@@ -1,0 +1,23 @@
+[17:27:50] info: Navigating to: https://staging.payroo.com.au/
+[17:27:59] info: Starting Admin Login flow
+[17:27:59] step: Filling email: support+test@payroo.com.au
+[17:28:01] step: Filling password
+[17:28:11] success: Admin login completed successfully!
+Generated Data: NewTest 2378 225 Argumentum quis curtus uterque comptus adduco harum cernuus.
+[17:28:12] info: Navigating to Payroll Settings page...
+[17:28:16] success: Successfully navigated to Payroll Settings page.
+[17:28:16] info: Opening Add Expense form
+[17:28:16] step: Clicking "Expenses" button
+[17:28:17] step: Clicking "Add New" button
+[17:28:18] success: Add Expense form opened successfully!
+[17:28:18] info: Filling Expense Form
+[17:28:18] step: Entering Expense Name: NewTest 2378
+[17:28:20] step: Opening Category dropdown
+[17:28:20] step: Selecting Category: Tools & Equipment
+[17:28:20] step: Entering Amount: 225
+[17:28:20] step: Entering Description: Argumentum quis curtus uterque comptus adduco harum cernuus.
+[17:28:21] step: Toggling "Show In Payslip"
+[17:28:21] success: Expense form filled successfully!
+[17:28:21] info: Saving Expense Item
+[17:28:21] step: Clicking CREATE button
+[17:28:22] success: Expense item created successfully!

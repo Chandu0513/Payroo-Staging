@@ -1,0 +1,9 @@
+[01:18:29] info: Initializing browser: chromium
+[01:18:30] info: Navigating to base URL: https://staging.payroo.com.au/
+⚠️ Storage expired → Logging in...
+[01:18:37] info: Starting Admin Login flow
+[01:18:37] step: Filling email: support+test@payroo.com.au
+[01:18:37] step: Filling password
+[01:18:39] success: Admin login completed successfully!
+Using Expense: 
+[01:18:39] info: Navigating to Payroll Settings page...

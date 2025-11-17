@@ -1,0 +1,23 @@
+[22:36:54] info: Navigating to: https://staging.payroo.com.au/
+[22:36:59] info: Starting Admin Login flow
+[22:36:59] step: Filling email: support+test@payroo.com.au
+[22:36:59] step: Filling password
+[22:37:01] success: Admin login completed successfully!
+Generated Data: NewTest 5648 26 Sodalitas abutor videlicet tempus apparatus vinitor vivo admoveo talus cicuta.
+[22:37:02] info: Navigating to Payroll Settings page...
+[22:37:03] success: Successfully navigated to Payroll Settings page.
+[22:37:03] info: Opening Add Expense form
+[22:37:03] step: Clicking "Expenses" button
+[22:37:07] step: Clicking "Add New" button
+[22:37:07] success: Add Expense form opened successfully!
+[22:37:07] info: Filling Expense Form
+[22:37:07] step: Entering Expense Name: NewTest 5648
+[22:37:07] step: Opening Category dropdown
+[22:37:08] step: Selecting Category: Tools & Equipment
+[22:37:08] step: Entering Amount: 26
+[22:37:09] step: Entering Description: Sodalitas abutor videlicet tempus apparatus vinitor vivo admoveo talus cicuta.
+[22:37:09] step: Toggling "Show In Payslip"
+[22:37:09] success: Expense form filled successfully!
+[22:37:09] info: Saving Expense Item
+[22:37:09] step: Clicking CREATE button
+[22:37:09] success: Expense item created successfully!

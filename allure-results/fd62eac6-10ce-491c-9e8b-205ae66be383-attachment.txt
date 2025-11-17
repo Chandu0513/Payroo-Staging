@@ -1,0 +1,23 @@
+[22:43:39] info: Navigating to: https://staging.payroo.com.au/
+[22:43:45] info: Starting Admin Login flow
+[22:43:45] step: Filling email: support+test@payroo.com.au
+[22:43:46] step: Filling password
+[22:43:48] success: Admin login completed successfully!
+Generated Data: NewTest 4988 689 Valetudo talio id asper cinis demulceo aliquam.
+[22:43:49] info: Navigating to Payroll Settings page...
+[22:43:51] success: Successfully navigated to Payroll Settings page.
+[22:43:51] info: Opening Add Expense form
+[22:43:51] step: Clicking "Expenses" button
+[22:43:53] step: Clicking "Add New" button
+[22:43:53] success: Add Expense form opened successfully!
+[22:43:53] info: Filling Expense Form
+[22:43:53] step: Entering Expense Name: NewTest 4988
+[22:43:53] step: Opening Category dropdown
+[22:43:53] step: Selecting Category: Tools & Equipment
+[22:43:54] step: Entering Amount: 689
+[22:43:54] step: Entering Description: Valetudo talio id asper cinis demulceo aliquam.
+[22:43:55] step: Toggling "Show In Payslip"
+[22:43:55] success: Expense form filled successfully!
+[22:43:55] info: Saving Expense Item
+[22:43:55] step: Clicking CREATE button
+[22:43:55] success: Expense item created successfully!
