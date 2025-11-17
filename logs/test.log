@@ -2416,3 +2416,95 @@ Call log:
 [23:34:37] success: Expense approved successfully.
 [23:34:37] info: Validating Success Toast...
 [23:34:37] success: Success toast is visible: Expense Claim(s) Approved.
+[23:48:50] info: Navigating to: https://staging.payroo.com.au/
+[23:48:57] info: Starting Admin Login flow
+[23:48:57] step: Filling email: support+test@payroo.com.au
+[23:48:58] step: Filling password
+[23:48:58] step: Clicking on Login button
+[23:48:58] info: Login successful
+[23:49:06] info: Navigating to: https://staging.payroo.com.au/
+[23:49:14] info: Starting Admin Login flow
+[23:49:14] step: Filling email: support+test@payroo.com.au
+[23:49:14] step: Filling password
+[23:49:14] step: Clicking on Login button
+[23:49:15] info: Login successful
+[23:49:16] info: Navigating to Payroll Settings page...
+[23:49:16] step: Clicking on Settings dropdown
+[23:49:25] step: Selecting Payroll link
+[23:49:27] success: Successfully navigated to Payroll Settings page.
+[23:49:27] info: Opening Add Expense form
+[23:49:27] step: Clicking "Expenses" button
+[23:49:29] step: Clicking "Add New" button
+[23:49:30] success: Add Expense form opened successfully!
+[23:49:30] info: Filling Expense Form
+[23:49:30] step: Entering Expense Name: NewTest 2657
+[23:49:31] step: Opening Category dropdown
+[23:49:32] step: Selecting Category: Tools & Equipment
+[23:49:33] step: Entering Amount: 907
+[23:49:33] step: Entering Description: Subvenio delibero iure.
+[23:49:34] step: Toggling "Show In Payslip"
+[23:49:34] success: Expense form filled successfully!
+[23:49:34] info: Saving Expense Item
+[23:49:34] step: Clicking CREATE button
+[23:49:35] success: Expense item created successfully!
+[23:49:39] info: Navigating to: https://staging.payroo.com.au/
+[23:49:47] info: Starting Admin Login flow
+[23:49:47] step: Filling email: support+test@payroo.com.au
+[23:49:48] step: Filling password
+[23:49:48] step: Clicking on Login button
+[23:49:48] info: Login successful
+[23:49:51] info: Navigating to expense claim page...
+[23:49:56] success: Successfully navigated to expenese claim page.
+[23:49:56] info: Opening Expense Claim Form...
+[23:49:57] info: Filling expense claim details using index-based dropdowns...
+[23:50:33] info: Selecting expense type...
+[23:50:33] info: Approving Expense...
+[23:50:36] success: Expense approved successfully.
+[23:50:36] info: Validating Success Toast...
+[23:50:38] success: Success toast is visible: Expense Claim(s) Approved.
+[00:05:27] info: Navigating to: https://staging.payroo.com.au/
+[00:05:33] info: Starting Admin Login flow
+[00:05:33] step: Filling email: support+test@payroo.com.au
+[00:05:34] step: Filling password
+[00:05:34] step: Clicking on Login button
+[00:05:34] info: Login successful
+[00:05:39] info: Navigating to: https://staging.payroo.com.au/
+[00:05:44] info: Starting Admin Login flow
+[00:05:44] step: Filling email: support+test@payroo.com.au
+[00:05:44] step: Filling password
+[00:05:44] step: Clicking on Login button
+[00:05:45] info: Login successful
+[00:05:46] info: Navigating to Payroll Settings page...
+[00:05:46] step: Clicking on Settings dropdown
+[00:05:49] step: Selecting Payroll link
+[00:05:50] success: Successfully navigated to Payroll Settings page.
+[00:05:50] info: Opening Add Expense form
+[00:05:50] step: Clicking "Expenses" button
+[00:05:51] step: Clicking "Add New" button
+[00:05:51] success: Add Expense form opened successfully!
+[00:05:51] info: Filling Expense Form
+[00:05:51] step: Entering Expense Name: NewTest 9471
+[00:05:52] step: Opening Category dropdown
+[00:05:52] step: Selecting Category: Tools & Equipment
+[00:05:53] step: Entering Amount: 516
+[00:05:53] step: Entering Description: Calamitas teneo utrum denique avaritia ceno teres sufficio derelinquo tristis.
+[00:05:53] step: Toggling "Show In Payslip"
+[00:05:54] success: Expense form filled successfully!
+[00:05:54] info: Saving Expense Item
+[00:05:54] step: Clicking CREATE button
+[00:05:54] success: Expense item created successfully!
+[00:05:56] info: Navigating to: https://staging.payroo.com.au/
+[00:06:02] info: Starting Admin Login flow
+[00:06:02] step: Filling email: support+test@payroo.com.au
+[00:06:02] step: Filling password
+[00:06:02] step: Clicking on Login button
+[00:06:02] info: Login successful
+[00:06:05] info: Navigating to expense claim page...
+[00:06:08] success: Successfully navigated to expenese claim page.
+[00:06:08] info: Opening Expense Claim Form...
+[00:06:09] info: Filling expense claim details using index-based dropdowns...
+[00:06:43] info: Selecting expense type...
+[00:06:43] info: Approving Expense...
+[00:06:45] success: Expense approved successfully.
+[00:06:45] info: Validating Success Toast...
+[00:06:45] success: Success toast is visible: Expense Claim(s) Approved.

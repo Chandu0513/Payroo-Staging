@@ -1,0 +1,23 @@
+[22:51:56] info: Navigating to: https://staging.payroo.com.au/
+[22:52:04] info: Starting Admin Login flow
+[22:52:04] step: Filling email: support+test@payroo.com.au
+[22:52:04] step: Filling password
+[22:52:06] success: Admin login completed successfully!
+Generated Data: NewTest 5207 852 Tempora peccatus commemoro aestivus tolero voluptatibus vomica cresco peior.
+[22:52:08] info: Navigating to Payroll Settings page...
+[22:52:16] success: Successfully navigated to Payroll Settings page.
+[22:52:16] info: Opening Add Expense form
+[22:52:16] step: Clicking "Expenses" button
+[22:52:16] step: Clicking "Add New" button
+[22:52:16] success: Add Expense form opened successfully!
+[22:52:16] info: Filling Expense Form
+[22:52:16] step: Entering Expense Name: NewTest 5207
+[22:52:17] step: Opening Category dropdown
+[22:52:17] step: Selecting Category: Tools & Equipment
+[22:52:18] step: Entering Amount: 852
+[22:52:18] step: Entering Description: Tempora peccatus commemoro aestivus tolero voluptatibus vomica cresco peior.
+[22:52:18] step: Toggling "Show In Payslip"
+[22:52:19] success: Expense form filled successfully!
+[22:52:19] info: Saving Expense Item
+[22:52:19] step: Clicking CREATE button
+[22:52:19] success: Expense item created successfully!

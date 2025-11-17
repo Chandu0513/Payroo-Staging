@@ -1,0 +1,26 @@
+[00:05:39] info: Navigating to: https://staging.payroo.com.au/
+[00:05:44] info: Starting Admin Login flow
+[00:05:44] step: Filling email: support+test@payroo.com.au
+[00:05:44] step: Filling password
+[00:05:44] step: Clicking on Login button
+[00:05:45] info: Login successful
+Generated Data: NewTest 9471 516 Calamitas teneo utrum denique avaritia ceno teres sufficio derelinquo tristis.
+[00:05:46] info: Navigating to Payroll Settings page...
+[00:05:46] step: Clicking on Settings dropdown
+[00:05:49] step: Selecting Payroll link
+[00:05:50] success: Successfully navigated to Payroll Settings page.
+[00:05:50] info: Opening Add Expense form
+[00:05:50] step: Clicking "Expenses" button
+[00:05:51] step: Clicking "Add New" button
+[00:05:51] success: Add Expense form opened successfully!
+[00:05:51] info: Filling Expense Form
+[00:05:51] step: Entering Expense Name: NewTest 9471
+[00:05:52] step: Opening Category dropdown
+[00:05:52] step: Selecting Category: Tools & Equipment
+[00:05:53] step: Entering Amount: 516
+[00:05:53] step: Entering Description: Calamitas teneo utrum denique avaritia ceno teres sufficio derelinquo tristis.
+[00:05:53] step: Toggling "Show In Payslip"
+[00:05:54] success: Expense form filled successfully!
+[00:05:54] info: Saving Expense Item
+[00:05:54] step: Clicking CREATE button
+[00:05:54] success: Expense item created successfully!

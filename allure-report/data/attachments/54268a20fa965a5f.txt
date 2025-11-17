@@ -1,0 +1,26 @@
+[23:49:06] info: Navigating to: https://staging.payroo.com.au/
+[23:49:14] info: Starting Admin Login flow
+[23:49:14] step: Filling email: support+test@payroo.com.au
+[23:49:14] step: Filling password
+[23:49:14] step: Clicking on Login button
+[23:49:15] info: Login successful
+Generated Data: NewTest 2657 907 Subvenio delibero iure.
+[23:49:16] info: Navigating to Payroll Settings page...
+[23:49:16] step: Clicking on Settings dropdown
+[23:49:25] step: Selecting Payroll link
+[23:49:27] success: Successfully navigated to Payroll Settings page.
+[23:49:27] info: Opening Add Expense form
+[23:49:27] step: Clicking "Expenses" button
+[23:49:29] step: Clicking "Add New" button
+[23:49:30] success: Add Expense form opened successfully!
+[23:49:30] info: Filling Expense Form
+[23:49:30] step: Entering Expense Name: NewTest 2657
+[23:49:31] step: Opening Category dropdown
+[23:49:32] step: Selecting Category: Tools & Equipment
+[23:49:33] step: Entering Amount: 907
+[23:49:33] step: Entering Description: Subvenio delibero iure.
+[23:49:34] step: Toggling "Show In Payslip"
+[23:49:34] success: Expense form filled successfully!
+[23:49:34] info: Saving Expense Item
+[23:49:34] step: Clicking CREATE button
+[23:49:35] success: Expense item created successfully!
