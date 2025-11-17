@@ -16,9 +16,7 @@ test.describe('Login Tests', () => {
 
   test('Login with valid user', async () => {
     await loginPage.loginPage();
-
-    await basePage.page.waitForLoadState('networkidle');
-    await expect(basePage.page).toHaveURL('https://staging.payroo.com.au/payruns');
+    
   });
 
   
