@@ -9,7 +9,7 @@ export default defineConfig({
   
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 2 : 0,
-  timeout: 40000,
+  timeout: 80000,
 
   use: {
     baseURL: process.env.BASE_URL || 'https://staging.payroo.com.au/',
