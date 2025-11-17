@@ -15,6 +15,11 @@ export class PayrollPage extends BasePage {
   descriptionTextbox = this.page.getByRole('textbox', { name: 'Enter description' });
   showInPayslipToggle = this.page.getByText('Show In Payslip');
   createButton = this.page.getByRole('button', { name: 'CREATE' });
+   settingsdropdown = this.page.getByRole('button', { name: ' Settings ' });
+  payrolllink = this.page.getByRole('link', { name: 'Payroll' });
+  expenseslink =  this.page.getByRole('link', { name: 'Expenses' });
+  
+
 
   searchExpenseTextbox = this.page.getByRole('textbox', {
     name: 'Search expense items by name'
@@ -30,8 +35,10 @@ export class PayrollPage extends BasePage {
 
     async navigateToPayroll() {
     log.info('Navigating to Payroll Settings page...');
-    const payrollUrl = ConfigReader.getPayrollURL();
-    await this.page.goto(payrollUrl, { waitUntil: 'load' });
+    log.step('Clicking on Settings dropdown');
+    await this.settingsdropdown.click();  
+    log.step('Selecting Payroll link');
+    await this.payrolllink.click();
     log.success('Successfully navigated to Payroll Settings page.');
   }
 
@@ -39,7 +46,6 @@ export class PayrollPage extends BasePage {
     log.info('Opening Add Expense form');
     log.step('Clicking "Expenses" button');
     await this.expensesButton.click();
-
     log.step('Clicking "Add New" button');
     await this.addNewButton.click();
     log.success('Add Expense form opened successfully!');

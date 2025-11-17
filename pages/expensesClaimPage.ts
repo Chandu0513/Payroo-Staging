@@ -8,6 +8,8 @@ export class ExpenseClaimPage extends BasePage {
   
   expenseClaimsLink = this.page.getByRole('link', { name: ' Expense Claims ' });
   createExpenseButton = this.page.getByRole('button', { name: 'Create Expense Claim ' });
+  expenseclaimleftnav = this.page.getByRole('link', { name: ' Expense Claims ' });
+  
 
   calendarIcon = this.page.locator('.uil.uil-calendar-alt');
   dateOption = this.page.getByRole('option', { name: 'Choose Tuesday, November 11th,' }); // update if dynamic
@@ -33,9 +35,7 @@ constructor(page: Page) {
 
 async navigateToExpenseclaim() {
   log.info('Navigating to expense claim page...');
-    
-  const expenseurl = ConfigReader.getExpenseClaimURL();
-  await this.page.goto(expenseurl, { waitUntil: 'load' });
+  await this.expenseclaimleftnav.click();
   log.success('Successfully navigated to expenese claim page.');
 }
 
