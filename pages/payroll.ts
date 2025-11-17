@@ -1,7 +1,7 @@
 import { expect, Page } from '@playwright/test';
 import { BasePage } from './basePage';
 import { log } from '../utils/logger';
-import { ConfigReader } from '../utils/configreader';
+
 
 export class PayrollPage extends BasePage {
 

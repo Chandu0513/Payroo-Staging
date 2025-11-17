@@ -2370,3 +2370,49 @@ Call log:
 [22:53:11] success: Expense approved successfully.
 [22:53:11] info: Validating Success Toast...
 [22:53:12] success: Success toast is visible: Expense Claim(s) Approved.
+[23:33:20] info: Navigating to: https://staging.payroo.com.au/
+[23:33:26] info: Starting Admin Login flow
+[23:33:26] step: Filling email: support+test@payroo.com.au
+[23:33:27] step: Filling password
+[23:33:27] step: Clicking on Login button
+[23:33:27] info: Login successful
+[23:33:32] info: Navigating to: https://staging.payroo.com.au/
+[23:33:38] info: Starting Admin Login flow
+[23:33:38] step: Filling email: support+test@payroo.com.au
+[23:33:38] step: Filling password
+[23:33:39] step: Clicking on Login button
+[23:33:39] info: Login successful
+[23:33:41] info: Navigating to Payroll Settings page...
+[23:33:41] step: Clicking on Settings dropdown
+[23:33:44] step: Selecting Payroll link
+[23:33:44] success: Successfully navigated to Payroll Settings page.
+[23:33:44] info: Opening Add Expense form
+[23:33:44] step: Clicking "Expenses" button
+[23:33:45] step: Clicking "Add New" button
+[23:33:45] success: Add Expense form opened successfully!
+[23:33:45] info: Filling Expense Form
+[23:33:45] step: Entering Expense Name: NewTest 5958
+[23:33:46] step: Opening Category dropdown
+[23:33:46] step: Selecting Category: Tools & Equipment
+[23:33:46] step: Entering Amount: 759
+[23:33:47] step: Entering Description: Cupiditate sunt voluptatem arguo caelum numquam decumbo cuius ipsum constans.
+[23:33:47] step: Toggling "Show In Payslip"
+[23:33:47] success: Expense form filled successfully!
+[23:33:47] info: Saving Expense Item
+[23:33:47] step: Clicking CREATE button
+[23:33:48] success: Expense item created successfully!
+[23:33:49] info: Navigating to: https://staging.payroo.com.au/
+[23:33:55] info: Starting Admin Login flow
+[23:33:55] step: Filling email: support+test@payroo.com.au
+[23:33:55] step: Filling password
+[23:33:55] step: Clicking on Login button
+[23:33:56] info: Login successful
+[23:33:57] info: Navigating to expense claim page...
+[23:34:00] success: Successfully navigated to expenese claim page.
+[23:34:00] info: Opening Expense Claim Form...
+[23:34:01] info: Filling expense claim details using index-based dropdowns...
+[23:34:35] info: Selecting expense type...
+[23:34:35] info: Approving Expense...
+[23:34:37] success: Expense approved successfully.
+[23:34:37] info: Validating Success Toast...
+[23:34:37] success: Success toast is visible: Expense Claim(s) Approved.

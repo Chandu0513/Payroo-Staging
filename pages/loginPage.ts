@@ -1,4 +1,3 @@
-import { BasePage } from './basePage';
 import { test, expect } from '@playwright/test';
 import { ConfigReader } from '../utils/configreader';
 import { log } from '../utils/logger';

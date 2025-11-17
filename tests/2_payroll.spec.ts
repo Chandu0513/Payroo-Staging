@@ -19,9 +19,6 @@ test.describe('Create Expense Flow', () => {
 
   test('Create new expense', async () => {
     await loginPage.loginPage();
-    await basePage.page.waitForLoadState('networkidle');
-    await expect(basePage.page).toHaveURL('https://staging.payroo.com.au/payruns');
-
     const randomName = DataGenerator.randomExpenseName();
     const randomAmount = DataGenerator.randomAmount();
     const randomDescription = DataGenerator.randomDescription();

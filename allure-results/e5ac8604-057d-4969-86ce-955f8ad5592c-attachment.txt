@@ -1,0 +1,26 @@
+[23:33:32] info: Navigating to: https://staging.payroo.com.au/
+[23:33:38] info: Starting Admin Login flow
+[23:33:38] step: Filling email: support+test@payroo.com.au
+[23:33:38] step: Filling password
+[23:33:39] step: Clicking on Login button
+[23:33:39] info: Login successful
+Generated Data: NewTest 5958 759 Cupiditate sunt voluptatem arguo caelum numquam decumbo cuius ipsum constans.
+[23:33:41] info: Navigating to Payroll Settings page...
+[23:33:41] step: Clicking on Settings dropdown
+[23:33:44] step: Selecting Payroll link
+[23:33:44] success: Successfully navigated to Payroll Settings page.
+[23:33:44] info: Opening Add Expense form
+[23:33:44] step: Clicking "Expenses" button
+[23:33:45] step: Clicking "Add New" button
+[23:33:45] success: Add Expense form opened successfully!
+[23:33:45] info: Filling Expense Form
+[23:33:45] step: Entering Expense Name: NewTest 5958
+[23:33:46] step: Opening Category dropdown
+[23:33:46] step: Selecting Category: Tools & Equipment
+[23:33:46] step: Entering Amount: 759
+[23:33:47] step: Entering Description: Cupiditate sunt voluptatem arguo caelum numquam decumbo cuius ipsum constans.
+[23:33:47] step: Toggling "Show In Payslip"
+[23:33:47] success: Expense form filled successfully!
+[23:33:47] info: Saving Expense Item
+[23:33:47] step: Clicking CREATE button
+[23:33:48] success: Expense item created successfully!
